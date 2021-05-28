@@ -1,1 +1,1 @@
-(![Image of Yaktocat](https://411mania.com/wp-content/uploads/2019/07/Jon-Jones-UFC-645x370.jpg))
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
